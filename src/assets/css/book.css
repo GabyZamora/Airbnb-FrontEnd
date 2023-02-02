@@ -1,0 +1,46 @@
+* {
+  --orangelight: #ffa364;
+  --pomegranate: #eb3e1b;
+  --orangelighting: #fb6d10;
+  --darkorange: #fc7643;
+  --orange: #af4f41;
+  --navblue: #273248;
+  --blue: #2e2e41;
+  --cream: #ffebd2;
+}
+
+.containerbook {
+  background: #c87437;
+  background: linear-gradient(to right, #ffa364, #ffd593);
+}
+
+.btn-book {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+.form-date {
+  border: 10rem;
+  color: black;
+  padding: 0%;
+  cursor: auto;
+  border-radius: 10px solid;
+  margin-top: 0.5rem;
+  border-color: black;
+}
+
+.btn-submit {
+  background: #da810d;
+  border: none;
+  color: white;
+  margin-top: 3rem;
+  padding: 1rem 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+input[type=date]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  display: none;
+}

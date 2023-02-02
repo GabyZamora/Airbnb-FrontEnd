@@ -1,0 +1,10 @@
+body {
+    background: #ffffff;
+    background: linear-gradient(to right, #ffffff, #ffffff);
+  }
+
+  .card-image-home img {
+    height: 200px;
+    width: 100%;
+    border-radius: 8px 8px 8px 8px;
+}
